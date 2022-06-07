@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fibbema%2Fpygments.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fibbema%2Fpygments?ref=badge_shield)
+
 Welcome to Pygments
 ===================
 
@@ -60,3 +62,7 @@ the `Pocoo <https://www.pocoo.org/>`_ team and **Tim Hatch**.
 The code is distributed under the BSD 2-clause license.  Contributors making pull
 requests must agree that they are able and willing to put their contributions
 under that license.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fibbema%2Fpygments.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fibbema%2Fpygments?ref=badge_large)
